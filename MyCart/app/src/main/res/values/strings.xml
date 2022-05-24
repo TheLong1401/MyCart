@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Cart</string>
+    <string name="searchHint">search...</string>
+    <string name="action_cart">Cart</string>
+</resources>
